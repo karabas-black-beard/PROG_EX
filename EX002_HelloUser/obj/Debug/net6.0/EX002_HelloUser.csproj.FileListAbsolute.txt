@@ -13,3 +13,18 @@ C:\Users\Master\Desktop\GB\контроль версий\Ex1\EX002_HelloUser\obj
 C:\Users\Master\Desktop\GB\контроль версий\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.pdb
 C:\Users\Master\Desktop\GB\контроль версий\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.genruntimeconfig.cache
 C:\Users\Master\Desktop\GB\контроль версий\Ex1\EX002_HelloUser\obj\Debug\net6.0\ref\EX002_HelloUser.dll
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\bin\Debug\net6.0\EX002_HelloUser.exe
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\bin\Debug\net6.0\EX002_HelloUser.deps.json
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\bin\Debug\net6.0\EX002_HelloUser.runtimeconfig.json
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\bin\Debug\net6.0\EX002_HelloUser.dll
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\bin\Debug\net6.0\EX002_HelloUser.pdb
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.AssemblyInfo.cs
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.dll
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\refint\EX002_HelloUser.dll
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.pdb
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\EX002_HelloUser.genruntimeconfig.cache
+C:\Users\Master\Desktop\GB\программирование\Ex1\EX002_HelloUser\obj\Debug\net6.0\ref\EX002_HelloUser.dll
